@@ -36,20 +36,19 @@ while x:
             break
 
     # Array Sort
-    for i in range(1, size, 1):
-        for j in range(0, i, 1):
-            if array[i] <= array[j]:
-                temp = array[i]
-                for k in range(j, i, 1):
-                    array[k+1] = array[k]
-                array[j] = temp
+    for i in range(0, size, 1):
+        for j in range(0, size - i - 1, 1):
+            if array[j] > array[j + 1]:
+                temp = array[j]
+                array[j] = array[j + 1]
+                array[j + 1] = temp
 
-    # Printing Second Largest Elements
+    print(array)
     print(array[-2])
 
     # Menu
     try:
-        choice = int(input("Choose:\n1: To Continue with a new array\n2: To Exit"))
+        choice = int(input("Choose:\n1: To Continue with a new array\n2: To Exit\n"))
         if choice == 1:
             x = True
 

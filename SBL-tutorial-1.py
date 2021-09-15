@@ -36,9 +36,9 @@ while x:
             break
 
     # Array Reverse
-    array = array[::-1]
-
-    print(array)
+    array1 = array[::-1]
+    print(f'This is the normal array {array}')
+    print(f'This is the reversed array {array1}')
 
     # Menu
     try:

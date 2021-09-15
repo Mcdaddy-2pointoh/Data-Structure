@@ -53,7 +53,7 @@ while x:
 
     # Menu
     try:
-        choice = int(input("Choose:\n1: To Continue with a new array\n2: To Exit"))
+        choice = int(input("Choose:\n1: To Continue with a new array\n2: To Exit\n"))
         if choice == 1:
             x = True
 
