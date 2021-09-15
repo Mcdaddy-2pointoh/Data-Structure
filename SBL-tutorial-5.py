@@ -46,13 +46,13 @@ while x:
         a = i
         b = -(i+1)
         if array[a] == number:
-            print (f'The number {number} was found on index {a} in the array')
+            print(f'The number {number} was found on index {a} in the array')
             number = False
             x = False
             break
 
         elif array[b] == number:
-            print (f'The number {number} was found on index {len(array) + b} in the array')
+            print(f'The number {number} was found on index {len(array) + b} in the array')
             number = False
             x = False
             break
