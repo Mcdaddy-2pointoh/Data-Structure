@@ -1,6 +1,6 @@
-#Version: v 1.0.0
-#Problem Statement: Insertion sort sorting of integer list
-#Developed by: Sharvil Dandekar
+# Version: v 1.0.0
+# Problem Statement: Insertion sort sorting of integer list
+# Developed by: Sharvil Dandekar
 
 x = True
 

@@ -1,6 +1,6 @@
-#Version: v 1.0.0
-#Problem Statement: Reverse Array
-#Developed by: Sharvil Dandekar
+# Version: v 1.0.0
+# Problem Statement: Reverse Array
+# Developed by: Sharvil Dandekar
 
 x = True
 

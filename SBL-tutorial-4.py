@@ -1,6 +1,6 @@
-#Version: v 1.0.0
-#Problem Statement: Array Spliting from user
-#Developed by: Sharvil Dandekar
+# Version: v 1.0.0
+# Problem Statement: Array Spliting from user
+# Developed by: Sharvil Dandekar
 
 x = True
 

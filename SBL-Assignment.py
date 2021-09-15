@@ -1,6 +1,6 @@
-#Version: v 1.0.0
-#Problem Statement: Use Multidimensional arrays as database. Add as much functionality of database as possible.
-#Developed by: Sharvil Dandekar
+# Version: v 1.0.0
+# Problem Statement: Use Multidimensional arrays as database. Add as much functionality of database as possible.
+# Developed by: Sharvil Dandekar
 
 
 data = []
